@@ -1,6 +1,6 @@
-#ML Analysis Weather Forecast in Szeged
+# ML Analysis Weather Forecast in Szeged
 
-##Dependencies required:
+## Dependencies
 The following dependenciesa are required to execute the notebook:
 * Numpy
 * Pandas

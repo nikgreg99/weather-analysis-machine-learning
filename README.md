@@ -6,7 +6,7 @@ The following dependencies are required to execute the notebook:
 * Pandas
 * Matplotlib
 * Seaborn
-* Scikit-learn
+* scikit-learn
 
 ## Dataset
 Here you can [downlod](https://www.kaggle.com/budincsevity/szeged-weather) the dataset used for the project.
